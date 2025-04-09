@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to Cyber Protection</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyber-Protection/Cyber-Protection/main/logo.jpg" width="200"/>
-</p>
-
-<p align="center">
   <strong>Cybersecurity | Ethical Hacking | Automation | Digital Safety</strong><br>
   Empowering the digital world with open-source tools and proactive defense.
 </p>
@@ -105,11 +101,3 @@ If you like our work, don’t forget to **Star** our repositories and follow us!
 - @YourTeamMate - Security Analyst
 
 ---
-
-## 🏴‍☠️ Digital Freedom Support
-
-<p align="center">
-  <b>FREE PALESTINE</b>  
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/512px-Flag_of_Palestine.svg.png" width="100">
-</p>
