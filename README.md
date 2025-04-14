@@ -34,7 +34,9 @@
 - Automation Scripts for IT Security. 
 - Solving All Kinds Of Problems On All Social Platforms.
 </b>
-  
+
+---
+
 ### 🌐 OUR PLATFORMS >>>
 
 <p align="center">
@@ -67,7 +69,7 @@
     </tr>
   </table>
 </p>
-
+---
 ### 👁️‍🗨️ VISION
 
 <p align="center">
@@ -81,46 +83,24 @@
 ### 📫 CONTACT US
 
 - **Email**         : solution.cyberprotection@gmail.com  
-- **Telegram PM**   : [@CyberProtectionBdcp](https://t.me/CyberProtectionBdcp)  
+- **Telegram **   : [@CyberProtection](https://t.me/Official_Cyber_Protection)  
 
 ---
 
-### 🧑‍💻 OUR TEAM
-
-- **@CyberProtectionBdcp**   → Founder & Lead Developer  
-- **@ITCyberFusion**         → Core Member  
-- **@YourTeamMate**          → Security Analyst  
-
----
-
-### 🛠️ TOOLS & TECH STACK
+### 🛠️ TOOLS & TECH STACK >>>
 
 `Python` | `Bash` | `JavaScript` | `HTML` | `CSS` | `PHP`  
 `GitHub Actions` | `Termux` | `Linux` | `REST APIs`  
 
 ---
 
-### ⭐ SUPPORT US
-
+### ⭐ SUPPORT US >>>
+<b>
 - → Star our repos  
 - → Follow us on GitHub  
 - → Share our tools  
-
+</b>
 ---
-
-### ✊ DIGITAL FREEDOM
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=FREE+PALESTINE+%7C+FREEDOM+FIGHTERS+OF+THE+INTERNET" />
-</p>
-
-We stand for:  
-✔️ Free Internet  
-✔️ Online Privacy  
-✔️ Freedom of Speech  
-✔️ FREE PALESTINE  
-❌ Oppression & Surveillance  
-
 
 ### 📊 GITHUB STATS
 
