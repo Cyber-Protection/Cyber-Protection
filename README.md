@@ -39,16 +39,38 @@
 - Telegram Bots & Security Tools  
 - API Development & Integration  
 - **Free Palestine — Digital Freedom Support**  
+### 🌐 **OUR PLATFORMS**
 
----
-
-### 🌐 OUR PLATFORMS
-
-- **Telegram Channel** : [https://t.me/CyberProtectionBdcp](https://t.me/CyberProtectionBdcp)  
-- **Facebook Group**   : [https://facebook.com/groups/yourgroup](https://facebook.com/groups/yourgroup)  
-- **GitHub**           : [https://github.com/Cyber-Protection](https://github.com/Cyber-Protection)  
-
----
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/Official_Cyber_Protection" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" alt="Telegram"/><br>
+          <strong>Telegram Channel</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://facebook.com/groups/yourgroup" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="50" alt="Facebook"/><br>
+          <strong>Facebook Page</strong>
+        </a>
+      </td>
+         <td align="center">
+        <a href="https://facebook.com/groups/yourgroup" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="50" alt="Facebook"/><br>
+          <strong>Facebook Group</strong>
+        </a>
+      </td>
+     <td align="center">
+        <a href="https://github.com/Cyber-Protection" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" alt="GitHub"/><br>
+          <strong>GitHub Profile</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### 👁️‍🗨️ VISION
 
