@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Digital+Freedom" alt="Typing SVG" />
 </p>
 
-bash
 [+] TEAM BASED IN BANGLADESH
 [+] BUILDING OPEN-SOURCE CYBER TOOLS
 [+] PROMOTING DIGITAL AWARENESS & FREEDOM
