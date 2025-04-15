@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 60px; color: #39FF14; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); font-weight: bold;">🛡️ CYBER PROTECTION 🛡️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=•••+Cyber+Security+%7C+Ethical+Hacking+•••" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=39FF14&center=true&width=600&lines=••>+Cyber+Security+%7C+Ethical+Hacking<••" alt="Cyber Protection" />
 </p>
 
 <p align="center">
